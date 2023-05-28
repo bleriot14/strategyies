@@ -11,7 +11,7 @@ from technical.util import resample_to_interval, resampled_merge
 from freqtrade.strategy import stoploss_from_open
 # --------------------------------
 # Add your lib to import here
-# version "v12.0.195"
+# version "v12.0.100"
 
 import talib.abstract as ta
 import freqtrade.vendor.qtpylib.indicators as qtpylib
